@@ -25,7 +25,7 @@ chmod +x tg
 cd new_tg
 screen ./launch.sh
 ```
-
+```
 # Commands
 /createsuper name
 /id
@@ -39,7 +39,8 @@ screen ./launch.sh
 /username
 /echo
 /edite text
----------------
+```
+
 bot.lua:
 
 tdcli = dofile('tdcli.lua')
