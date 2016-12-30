@@ -51,4 +51,4 @@ sudo_users = {
   0
   }
   
-  @xtria
+ (xtria)
