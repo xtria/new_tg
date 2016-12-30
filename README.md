@@ -50,3 +50,5 @@ sudo_users = {
   284322619,  --id bot
   0
   }
+  
+  @xtria
