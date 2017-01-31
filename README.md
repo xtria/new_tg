@@ -1,7 +1,9 @@
 # [xtria](https://github.com/xtria/new_tg)
 *TG-CLI telegram-bot!*
 
-# https://github.com/mafia-007/mafia_cli
+# [mafia](https://github.com/mafia-007/mafia_cli)
+
+https://github.com/mafia-007/mafia_cli
 
 # Install
 ```
