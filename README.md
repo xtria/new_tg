@@ -1,6 +1,8 @@
 # [xtria](https://github.com/xtria/new_tg)
 *TG-CLI telegram-bot!*
 
+# https://github.com/mafia-007/mafia_cli
+
 # Install
 ```
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
